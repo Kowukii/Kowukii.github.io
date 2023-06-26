@@ -1,0 +1,138 @@
+@font-face {
+    font-family: "Bitstream Vera Serif Bold";
+      src: url("https://mdn.github.io/css-examples/web-fonts/VeraSeBd.ttf");
+      font-display: swap;
+      font-weight: lighter;
+}
+/* @import url  */
+
+div#menus {
+    font-family: 'Bitstream Vera Serif Bold';
+}
+h1#site-title{
+    font-family: 'Bitstream Vera Serif Bold';
+    font-size: 3em I !important;
+}
+
+a.article-title,
+a.blog-slider_title,
+a.categoryBar-list-link,
+h1.post-title {
+    font-family: 'Bitstream Vera Serif Bold';
+}
+
+.iconfont {
+    font-family: '.iconfont' !important;
+    font-size: 3em;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+svg.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
+
+.icon-zhongbiao::before {
+    color: #f7c768;
+}
+
+.bangumi-active {
+    background: #dbecfe !important;
+    border-radius: 10px !important;
+}
+a.bangumi-tab:hover{
+    text-decoration: none !important;
+}
+a.bangumi-button:hover {
+    background: #dbecfe !important;
+    border-radius: 10px !important;
+}
+
+#uploadSource > svg {
+    width: 1.19em;
+    height: 1.5em;
+}
+/* top-img黑色透明玻璃效果移除 */
+#page-header:not(.not-top-img):before {
+    background-color: transparent !important;
+}
+
+/* 首页文章卡片 */
+#recent-posts > .recent-post-item {
+    background: rgba(255, 255, 255, 0.9);
+}
+div#page {
+    background: rgba(255, 255, 255, 0.9);
+}
+div#archive {
+    background: rgba(255, 255, 255, 0.9);
+}
+div#tag {
+    background: rgba(255, 255, 255, 0.9);
+}
+div#category {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+[data-theme='dark'] #recent-posts >.recent-post-item{
+    background: #121212;
+}
+[data-theme='dark'] .card-widget{
+    background: #121212 !important;
+}
+[data-theme='dark'] div#post{
+    background: #121212 !important;
+}
+[data-theme='dark'] div#tag{
+    background: #121212 !important;
+}
+[data-theme='dark'] div#archive{
+    background: #121212 !important;
+}
+[data-theme='dark'] div#page{
+    background: #121212 !important;
+}
+[data-theme='dark'] div#category{
+    background: #121212 !important;
+}
+
+[data-theme='dark'] div#category{
+    background: transparent !important;
+}
+
+
+#footer {
+    background: transparent !important;
+}
+#page-header {
+    background: transparent !important;
+}
+#rightside > div > button{
+    border-radius: 5px;
+}
+
+
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+    left: -66px !important;
+    transition: all 0.3s;
+}
+
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+    left: 0 !important;
+    transition: all 0.3s;
+}
+
+.aplayer.aplayer-fixed {
+    z-index: 999999 !important;
+}
+
+#article-container figure.highlight {
+    border-radius: 10px;
+}
+
+
