@@ -1,11 +1,11 @@
 # Site settings
 title: Kowuki Blog
-SEOTitle: 仿真博客 | KWK Blog
-header-img: img/home-bg-2.jpg
+SEOTitle: 系统日志 | KWK Blog
+header-img: img/home-bg-7.jpg
 email: kowuki@stu.xjtu.edu.cn
 description: "仿真与数字孪生 | 编译与控制"
 keyword: "Kowuki, 流体仿真, Ansys Fluent, 博客, 个人网站, 互联网, Web, Python, Cpp, POD, DMD"
-url: "https://roselifetotj.github.io/" # your host, for absolute URL
+url: "https://Kowukii.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 那个踏浪来的仙女是我的
-zhihu_username: Roselife
-github_username: labixiong
+weibo_username: PilloLord
+zhihu_username: kuki
+github_username: Kowukii
 # twitter_username: huxpro
 # facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
@@ -74,7 +74,7 @@ ba_track_id: bade937f1e77acfeb4fa77b726e60a98
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "我爱这生活。"
+sidebar-about-description: "为什么要演奏春日影。"
 sidebar-avatar: img/avatar-lbx.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
