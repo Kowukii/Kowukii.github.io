@@ -1,6 +1,6 @@
 # Site settings
-title: Kowuki Blog
-SEOTitle: 系统日志 | KWK Blog
+title: Kowuki
+SEOTitle: 系统日志 | 2025
 header-img: img/home-bg-7-1.jpg
 email: kowuki@stu.xjtu.edu.cn
 description: "仿真与数字孪生 | 编译与控制"
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: PilloLord
-zhihu_username: kuki
+weibo_username: PillowLord
+zhihu_username: gao-yu-22-12
 github_username: Kowukii
 # twitter_username: huxpro
 # facebook_username:  huxpro
